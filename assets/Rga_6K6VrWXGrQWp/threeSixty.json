@@ -1,0 +1,27 @@
+{
+  "version": "3.95.33670.0",
+  "course_id": "5l5qz5N125Y",
+  "title": "OVC_ThroughOurEyes_Video",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "OVC: Through Our Eyes: Children, Violence, and Trauma-Addressing Violence in the Home"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6TPy9iY5Z1H",
+      "title": "OVC: Through Our Eyes: Children, Violence, and Trauma-Addressing Violence in the Home",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 560
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
